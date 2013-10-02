@@ -3,4 +3,4 @@ jquery.ajax.filter
 
 jquery ajax filter
 
-http://www.google.com
+<a href='http://www.google.com'>google</a>
